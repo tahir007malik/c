@@ -1,1 +1,2 @@
-Compile & run: gcc file.c -o machinecode && machinecode
+Compile & run (Windows): gcc file.c -o machinecode && machinecode
+Compile & run (Ubuntu):  gcc file.c -o machinecode && ./machinecode
